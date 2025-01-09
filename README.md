@@ -1,4 +1,4 @@
-### Plekhanov Nikita
+### Nikita Plekhanov 
 
 🧬🧫🌱
 
@@ -20,16 +20,18 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" title="pandas" width="35" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" width="36" height="40"/>&nbsp;
 
-#### Training and work projects
+#### My training and work projects
 - Python
   - [Codon Prevalence in Bacteria](https://colab.research.google.com/drive/1GnDstThfq3h05z-yY7E5jrQi2kgu4QcC?usp=sharing)
   - [Sars-CoV-2 Genome Evolution](https://colab.research.google.com/drive/1gaMZiEuwduYYA76ARHV3O7pyJJ9zhSx-?usp=sharing)
   - [WHO Cholera Cases Overview](https://colab.research.google.com/drive/14f7Ob4xpfQt_WSrMvNp5ywTWQEi7Q_U1?usp=sharing)
-  - [Automatically renaming contigs of assembly results](https://colab.research.google.com/drive/19Gp9SsSDx4OqE7vSEEAcPE7SpTaelFBR?usp=sharing)
+  - [Auto-renaming contigs of assembly results](https://colab.research.google.com/drive/19Gp9SsSDx4OqE7vSEEAcPE7SpTaelFBR?usp=sharing)
   - [FASTA Merging](https://colab.research.google.com/drive/1pemVDpjiYeR1G9j4EgZhGrzNX9Boa6_D?usp=sharing)
-  - [Multiple strain BLAST](https://colab.research.google.com/drive/1AwGbwPEz35OVfS7KFvHX1BzqH2dQUydx?usp=sharing)
-  - [Split alignment into separate files](https://colab.research.google.com/drive/1X3pX6nYMp5buyJHVjN0K4OdRLfE0xhgy?usp=sharing)
-
+  - [Multiple strain BLAST+](https://colab.research.google.com/drive/1AwGbwPEz35OVfS7KFvHX1BzqH2dQUydx?usp=sharing)
+  - [Split alignment into separate FASTA files](https://colab.research.google.com/drive/1X3pX6nYMp5buyJHVjN0K4OdRLfE0xhgy?usp=sharing)
+- R
+  - [Shiny Dashboard](https://muscari.shinyapps.io/TrustUs/) 
+  - [Using Leaflet with Shiny - Interactive Map](https://muscari.shinyapps.io/Shiny_map)
 #### Contacts
 [<img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" title="Telegram" alt="telegram" width="40" height="40">](https://t.me/mscrr)
 [<img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" title="LinkedIn" alt="LinkedIn" width="40" height="40">](http://www.linkedin.com/in/nikita-plekhanov)
