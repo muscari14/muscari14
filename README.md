@@ -5,10 +5,10 @@
 🏭 - Russian Anti-Plague Research Institute «Microbe»
 
 #### About
-- Molecular biologist and microbiologist
+- Biologist, Microbiology & Molecular Biology
 - I'm new to programming and bioinformatics and currently learning **Python**
 - I :heart: **R** for data analysis and visualization
-- I speak Russian and French
+- I speak Russian, English and French
 
 #### Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" title="R" width="40" height="40"/>&nbsp;
@@ -30,12 +30,15 @@
   - [Multiple strain BLAST+](https://colab.research.google.com/drive/1AwGbwPEz35OVfS7KFvHX1BzqH2dQUydx?usp=sharing)
   - [Split alignment into separate FASTA files](https://colab.research.google.com/drive/1X3pX6nYMp5buyJHVjN0K4OdRLfE0xhgy?usp=sharing)
 - R
-  - [Shiny Dashboard](https://muscari.shinyapps.io/TrustUs/) 
+  - [The role of different Vibrio cholerae defense systems on phage resistance](https://rpubs.com/muscari/anti-phage)
+  - [Interactive plot - Antiphage genes of Vibrio cholerae](https://rpubs.com/muscari/plotly_antiphage_genes)
+  - [Socioeconomic survey of Russian regions during the COVID-19 pandemic](https://rpubs.com/muscari/TrustUS)
+  - [Shiny Analytics Dashboard](https://muscari.shinyapps.io/TrustUs/) 
   - [Using Leaflet with Shiny - Interactive Map](https://muscari.shinyapps.io/Shiny_map)
 #### Contacts
 [<img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" title="Telegram" alt="telegram" width="40" height="40">](https://t.me/mscrr)
 [<img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" title="LinkedIn" alt="LinkedIn" width="40" height="40">](http://www.linkedin.com/in/nikita-plekhanov)
-[<img src="https://img.icons8.com/?size=100&id=ho8QlOYvMuG3&format=png&color=000000" title="Gmail" alt="Gmail" width="40" height="40">](naplekhanov@gmail.com)
+[<img src="https://img.icons8.com/?size=100&id=ho8QlOYvMuG3&format=png&color=000000" title="naplekhanov@gmail.com" alt="Gmail" width="40" height="40">](mailto:naplekhanov@gmail.com)
 
 
                   
