@@ -1,8 +1,9 @@
 ### Nikita Plekhanov 
 
-🧬🧫🌱
 
-🏭 - Russian Anti-Plague Research Institute «Microbe»
+:biohazard: - Russian Anti-Plague Research Institute «Microbe», Saratov, 2013 - 2025
+
+🧬 - Biotech Campus, Moscow, 2025 - to now
 
 #### About
 - Biologist, Microbiology & Molecular Biology
